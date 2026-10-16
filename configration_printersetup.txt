@@ -1,0 +1,25 @@
+{
+  "service_name": "Printer Setup and Configuration for Business",
+  "provider": "Ovron Inc",
+  "target_url": "https://ovroninc.com/printer-setup-and-configuration/",
+  "supported_brands": [
+    "HP",
+    "Canon",
+    "Epson",
+    "Brother",
+    "Xerox",
+    "Samsung",
+    "Lexmark"
+  ],
+  "supported_environments": [
+    "Local USB",
+    "Wi-Fi Wireless",
+    "LAN Network",
+    "Cloud Print"
+  ],
+  "contact": {
+    "phone": "+1-833-837-4005",
+    "email": "customersupport@ovroninc.com",
+    "location": "101 E. Park Blvd, St # 600, Plano, TX 75074"
+  }
+}
